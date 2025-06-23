@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on anything no-code related
 - 📫 How to reach me @beahemian
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 beahemian/beahemian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
